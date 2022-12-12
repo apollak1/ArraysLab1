@@ -145,7 +145,8 @@ print("\n")
 print("***PROBLEM 1.4 : ARRAY MODIFICATION")
 // Someone had a conflict and decided to transfer her registration to someone else. Use array subscripting to change the sixth element to Rebecca. Print the contents of the collection.
  //See the example above and remember the sixth element is the fifth index.
-
+// registrationList[1] = "Charlie1"
+// print(registrationList)
 
 
  print("\n")
