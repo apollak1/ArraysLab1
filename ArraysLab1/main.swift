@@ -138,7 +138,8 @@ print("***PROBLEM 1.3 : ARRAY INSERTION")
  
 print("***Example for 1.4")
 //You can identify a particular portion of an array by adding the element number with name of the array. This is called subscripting.
-
+registrationList[1] = "Charlie1"
+print(registrationList)
 
 print("\n")
 
